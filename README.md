@@ -436,4 +436,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-*Built with ❄️ by GitHub Copilot CLI — fully automated Fabric deployment*
+*All guides are written from personal experience and may need adjustments for your specific environment.*
